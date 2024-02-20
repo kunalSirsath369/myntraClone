@@ -2002,6 +2002,13 @@
       "password": "101010",
       "mobile_no": "9696969696",
       "id": 1
+    },
+       {
+      "name": "Kunal Shirsath",
+      "email": "shirsathkunal11@gmail.com",
+      "password": "ramram",
+      "mobile_no": "9696969696",
+      "id": 2
     }
   ],
   "wishlist": [
